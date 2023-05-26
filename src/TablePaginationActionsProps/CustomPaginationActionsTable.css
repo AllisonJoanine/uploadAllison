@@ -1,0 +1,7 @@
+.custom-table-container {
+    position: absolute;
+    top: 70%; /* Centraliza verticalmente */
+    left: 50%; /* Centraliza horizontalmente */
+    transform: translate(-50%, -50%); /* Centraliza em relação ao centro */
+    max-width: 800px; /* Defina a largura desejada */
+  }

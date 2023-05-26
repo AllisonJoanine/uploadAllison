@@ -1,0 +1,7 @@
+.caixapesquisa {
+    text-align: center;
+    display: flex; /* Adicionando o display flex */
+    justify-content: center;
+}
+
+

@@ -1,0 +1,14 @@
+.caixapesquisa {
+    position: absolute;
+    top: 50px;
+    left: 0;
+    transform: translate(0, 0);
+    margin-top: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .caixapesquisa .MuiTextField-root {
+    height: 10px; /* Ajuste a altura desejada */
+  }
